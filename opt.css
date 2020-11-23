@@ -1,4 +1,7 @@
-@media only screen and {max-width: 1440px} {
-.wrapper { 
- width:720px 
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 1450px) {
+.wrapper  {
+	width: 750px;
 }
+}
+
